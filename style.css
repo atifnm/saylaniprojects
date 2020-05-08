@@ -1,0 +1,139 @@
+* {
+    margin: 0;
+}
+a {
+    text-decoration: none;
+}
+ul li{
+    list-style: none;
+}
+.topbar {
+    background-color: blue;
+    padding: 5px;
+    color: white;
+    font-size: 12px;
+}
+.topbar i{
+    margin: 0 4px;
+}
+.container {
+    width: 900px;
+    margin: 0 auto;
+}
+.show-in-line{
+    display: inline-block;
+}
+.logo img{
+    width: 240px;
+}
+.menu ul li{
+    display: inline-block;
+}
+.menu ul li a{
+    padding: 15px 10px;
+    color: black;
+    font-size: 12px;
+}
+.menu ul li a:hover{
+    background-color:blue ;
+color: white;
+border-radius: 25px;
+}
+
+.logo {
+    float: left;
+}
+.menu {
+    float: right;
+}
+.socialmedia {
+    float: left;  
+}
+.moto {
+    float: left;
+    margin-left: 100px; font-size: 15px;
+}
+.clear {clear: both;}
+.button a {
+    width: auto;
+    background-color: linen;
+    color: black;
+    padding: 5px 10px;
+    text-align: center;
+    
+}
+.button {float: right;
+}
+.header {
+    background-color: #f7f8fa
+
+}
+.separator1{
+    width: 40px;
+    height: 2px;
+    background-color: green;
+    display: block;
+    margin-left: 450px;
+   margin-top: 20px;
+    
+}
+
+.separator2{
+    width: 40px;
+    height: 2px;
+    background-color: green;
+    display: block;
+    margin-right: 150px;
+    margin-top: 20px; 
+}
+.row1 img{
+    width: 150px;
+    height: 100px;
+    padding-right: 5px;
+}
+.separator{
+    width: 70px;
+    height: 3px;
+    background-color: green;
+    display: block;
+}
+.separator3{width: 100px;
+    height: 1px;
+    background-color: green;
+    display: block;
+
+}
+.projects marquee{
+    height: 220px;
+}
+.images{
+    text-align: center;
+}
+.images .separator{
+    width: 70px;
+    height: 3px;
+    background-color: green;
+    display: block;
+    text-align: center;
+}
+.top{
+    background-color: green;
+    width: 1000px;
+    height: 30px;
+    color: black;
+}
+.intro{
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: cornflowerblue;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.contain{
+    width: auto;
+    height: 400px;
+    background-color: black;
+    color: white;
+    
+}
